@@ -1,0 +1,3 @@
+== Open ID Connect (OIDC)
+
+The OpenID Connect (OIDC) authentication protocol lets you verify the identity of users attempting to gain access to endpoints protected by HTTPS. The OpenID Foundation (comprising companies such as Google and Microsoft) developed OIDC on the basis of the Open Authorization (OAuth) protocol. While OAuth provides only authorization, OIDC delivers an added layer of security through authentication.

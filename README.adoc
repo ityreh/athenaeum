@@ -1,8 +1,9 @@
 = Athenaeum
 
+.Athenaeum Overview
 [plantuml]
-....
+----
 include::shared/assets/puml/overview.puml[]
-....
+----
 
 include::dx/dx.adoc[]

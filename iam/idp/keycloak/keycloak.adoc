@@ -1,0 +1,19 @@
+== Keycloak
+
+Add authentication to applications and secure services with minimum effort.
+No need to deal with storing users or authenticating users.
+
+Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more.
+
+* *Single-Sign On*: Login once to multiple applications
+* *Standard Protocols*: OpenID Connect, OAuth 2.0 and SAML 2.0
+* *Centralized Management*: For admins and users
+* *Adapters*: Secure applications and services easily
+* *LDAP and Active Directory*: Connect to existing user directories
+* *Social Login*: Easily enable social login
+* *Identity Brokering*: OpenID Connect or SAML 2.0 IdPs
+* *High Performance*: Lightweight, fast and scalable
+* *Clustering*: For scalability and availability
+* *Themes*: Customize look and feel
+* *Extensible*: Customize through code
+* *Password Policies*: Customize password policies

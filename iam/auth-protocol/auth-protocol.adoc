@@ -1,0 +1,5 @@
+= Auth Protocol
+
+include::oauth/oauth.adoc[]
+
+include::oidc/oidc.adoc[]
