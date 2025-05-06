@@ -1,0 +1,16 @@
+@startmindmap
++ athenaeum
+++ [[http://plantuml.com{Programming Languages} Lang]]
++++ Java
++++ TypeScript
+++ Datastore
++++ PostgreSQL
++++ MongoDB
+++ Messaging
++++ RabbitMQ
++++ Kafka
+++ IdP
+-- [[http://plantuml.com{Developer Experience} DX]]
+--- [[http://plantuml.com{Integrated Developer Environment} IDE]]
+--- [[http://plantuml.com{Integrated Developer Portal} IDP]]
+@endmindmap

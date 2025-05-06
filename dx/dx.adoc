@@ -1,0 +1,35 @@
+== Developer Experience (DX)
+
+=== Useful Extensions/Plugins for popular IDEs
+
+|===
+|Category|Topic|VSCode|IntelliJ|Neovim
+
+// -------------
+// Documentation
+// -------------
+
+|Documentation
+|AsciiDoc
+|asciidoctor.asciidoctor-vscode
+|AsciiDoc
+|
+
+|Documentation
+|Draw.io
+|hediet.vscode-drawio
+|Diagrams.net Integration
+|
+
+|Documentation
+|PlantUML
+|jebbs.plantuml
+|PlantUML Integration
+|
+
+|Documentation
+|Spell Check
+|streetsidesoftware.code-spell-checker
+|<default>
+|
+|===
