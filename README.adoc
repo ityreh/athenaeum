@@ -9,4 +9,4 @@
 include::shared/assets/puml/overview.puml[]
 ----
 
-include::./dx/dx.adoc[]
+include::dx/dx.adoc[leveloffset=+1]
