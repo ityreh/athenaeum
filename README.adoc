@@ -1,4 +1,5 @@
 :safe-mode-level: 0
+:imagesdir: shared/assets
 
 = Athenaeum
 
@@ -8,4 +9,4 @@
 include::shared/assets/puml/overview.puml[]
 ----
 
-include::dx/dx.adoc[]
+include::./dx/dx.adoc[]
