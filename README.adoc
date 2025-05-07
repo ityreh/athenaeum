@@ -1,4 +1,4 @@
-:safe-mode-level: 1
+:safe-mode-level: 0
 
 = Athenaeum
 
