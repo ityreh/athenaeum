@@ -3,9 +3,9 @@
 :numbered:
 :imagesdir: shared/assets
 
-= Athenaeum
+= Commonplace
 
-.Athenaeum Overview
+.Commonplace Overview
 [plantuml]
 ----
 include::shared/assets/puml/overview.puml[]
