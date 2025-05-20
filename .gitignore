@@ -1,4 +1,5 @@
 .idea
+*.code-workspace
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij+all,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij+all,visualstudiocode

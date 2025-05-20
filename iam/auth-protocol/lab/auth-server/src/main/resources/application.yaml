@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: auth-server
+  security:
+    user:
+      name: user1
+      password: password
+
+server:
+  port: 9000
+
+logging:
+  level:
+    org.springframework.security: trace

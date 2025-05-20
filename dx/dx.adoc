@@ -5,6 +5,22 @@
 |===
 |Category|Topic|VSCode|IntelliJ|Neovim
 
+// --------------------
+// Language & Framework
+// --------------------
+
+|Language
+|Java
+|vscjava.vscode-java-pack
+|<default>
+|
+
+|Language
+|Spring
+|vmware.vscode-boot-dev-pack
+|<ultimate>
+|
+
 // -------
 // Runtime
 // -------
